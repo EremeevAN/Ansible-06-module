@@ -1,0 +1,4 @@
+---
+# defaults file for my_role
+path: './my_role.txt'
+content: "Hello Worlds =)"
