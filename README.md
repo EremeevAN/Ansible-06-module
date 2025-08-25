@@ -16,3 +16,6 @@
 
 Запускаем playbook, и убеждаемся, что он работает
 ![image](https://github.com/EremeevAN/Ansible-06-module/blob/main/images/5.png)
+
+Ссылка на collection
+https://github.com/EremeevAN/Ansible-06-module/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
